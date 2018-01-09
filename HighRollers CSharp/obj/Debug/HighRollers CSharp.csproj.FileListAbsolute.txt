@@ -1,0 +1,17 @@
+c:\users\19sneddderb\documents\visual studio 2013\Projects\HighRollers CSharp\HighRollers CSharp\obj\Debug\HighRollers CSharp.csprojResolveAssemblyReference.cache
+c:\users\19sneddderb\documents\visual studio 2013\Projects\HighRollers CSharp\HighRollers CSharp\obj\Debug\HighRollers_CSharp.frmHighRollers.resources
+c:\users\19sneddderb\documents\visual studio 2013\Projects\HighRollers CSharp\HighRollers CSharp\obj\Debug\HighRollers_CSharp.Properties.Resources.resources
+c:\users\19sneddderb\documents\visual studio 2013\Projects\HighRollers CSharp\HighRollers CSharp\obj\Debug\HighRollers CSharp.csproj.GenerateResource.Cache
+c:\users\19sneddderb\documents\visual studio 2013\Projects\HighRollers CSharp\HighRollers CSharp\bin\Debug\HighRollers CSharp.exe
+c:\users\19sneddderb\documents\visual studio 2013\Projects\HighRollers CSharp\HighRollers CSharp\bin\Debug\HighRollers CSharp.pdb
+c:\users\19sneddderb\documents\visual studio 2013\Projects\HighRollers CSharp\HighRollers CSharp\obj\Debug\HighRollers CSharp.exe
+c:\users\19sneddderb\documents\visual studio 2013\Projects\HighRollers CSharp\HighRollers CSharp\obj\Debug\HighRollers CSharp.pdb
+C:\Users\19sneddderb\Desktop\HighRollers CSharp-20180105T204723Z-001\HighRollers CSharp\HighRollers CSharp\bin\Debug\HighRollers CSharp.exe
+C:\Users\19sneddderb\Desktop\HighRollers CSharp-20180105T204723Z-001\HighRollers CSharp\HighRollers CSharp\obj\Debug\HighRollers_CSharp.frmHighRollers.resources
+C:\Users\19sneddderb\Desktop\HighRollers CSharp-20180105T204723Z-001\HighRollers CSharp\HighRollers CSharp\obj\Debug\HighRollers_CSharp.Properties.Resources.resources
+C:\Users\19sneddderb\Desktop\HighRollers CSharp-20180105T204723Z-001\HighRollers CSharp\HighRollers CSharp\obj\Debug\HighRollers CSharp.csproj.GenerateResource.Cache
+C:\Users\19sneddderb\Desktop\HighRollers CSharp-20180105T204723Z-001\HighRollers CSharp\HighRollers CSharp\obj\Debug\HighRollers CSharp.csproj.CoreCompileInputs.cache
+C:\Users\19sneddderb\Desktop\HighRollers CSharp-20180105T204723Z-001\HighRollers CSharp\HighRollers CSharp\obj\Debug\HighRollers CSharp.exe
+C:\Users\19sneddderb\Desktop\HighRollers CSharp-20180105T204723Z-001\HighRollers CSharp\HighRollers CSharp\obj\Debug\HighRollers CSharp.pdb
+C:\Users\19sneddderb\Desktop\HighRollers CSharp-20180105T204723Z-001\HighRollers CSharp\HighRollers CSharp\bin\Debug\HighRollers CSharp.pdb
+C:\Users\19sneddderb\Desktop\HighRollers CSharp-20180105T204723Z-001\HighRollers CSharp\HighRollers CSharp\obj\Debug\HighRollers CSharp.csprojResolveAssemblyReference.cache
